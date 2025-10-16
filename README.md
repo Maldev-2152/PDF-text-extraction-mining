@@ -3,7 +3,6 @@
 ![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9B-lightgrey)
 ![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-Anything-1abc9c.svg)
-![GitHub license](https://img.shields.io/github/license/yourusername/pdf-text-mining)
 
 > A simple and effective tool for extracting and mining text from PDF documents using Python.
 
